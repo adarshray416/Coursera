@@ -1,2 +1,2 @@
 # Coursera
-It contains all the assignment of coursera for the course HTML, CSS, JS, For Web Developer.
+This is bascially an assignment repository made to cover the assignment given in the course in Coursera named HTML, CSS, JS for Web- Developer. 
